@@ -14,9 +14,9 @@ I think everyone has an amazing story and would love to hear more about you.
 <h3>Languages and Tools</h3>
 <img align="left" alt="HTML5" width="26px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="css" width="26px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="padding-right:10px;" />
-<img align="left" alt="javascript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="padding-right:10px;" />]
-<img align="left" alt="node.js" width="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="padding-right:10px;" />]
-<img align="left" alt="express" width="26px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="padding-right:10px;" />]
+<img align="left" alt="javascript" width="26px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="padding-right:10px;" />
+<img align="left" alt="node.js" width="26px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="padding-right:10px;" />
+<img align="left" alt="express" width="26px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" style="padding-right:10px;" />
 <img align="left" alt="react" width="26px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="padding-right:10px;" />
 <img align="left" alt="mysql" width="26px" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="padding-right:10px;" />
 <img align="left" alt="postgresql" width="26px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="padding-right:10px;" />
