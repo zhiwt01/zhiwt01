@@ -11,6 +11,8 @@ I think everyone has an amazing story and would love to hear more about you.
 <br />
 
 <h3>Languages and Tools</h3>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/JavaScript.svg" />
+
 
 
 
