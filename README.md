@@ -5,7 +5,6 @@ I think everyone has an amazing story and would love to hear more about you.
 
 
 - 🌱 I’m currently learning Typescript on LinkedIn
-- 📫 How to reach me: Zhiwt01@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can wiggle my ears
 <br />
@@ -17,6 +16,7 @@ I think everyone has an amazing story and would love to hear more about you.
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Adobe Creative Cloud" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobecreativecloud/adobecreativecloud-original.svg" style="padding-right:10px;" />
 
 
 [website]: #
