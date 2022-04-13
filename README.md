@@ -11,10 +11,10 @@ I think everyone has an amazing story and would love to hear more about you.
 <br />
 
 <h3>Languages and Tools</h3>
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][null]
 
 
-
+[website]: #
 
 <!--
 **zhiwt01/zhiwt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
