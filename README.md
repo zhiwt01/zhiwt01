@@ -11,7 +11,7 @@ I think everyone has an amazing story and would love to hear more about you.
 <br />
 
 <h3>Languages and Tools</h3>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/JavaScript.svg" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
 
 
 
